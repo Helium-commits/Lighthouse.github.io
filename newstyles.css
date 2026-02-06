@@ -179,6 +179,15 @@ body {
     line-height: 1.8;
 }
 
+.midsection-description {
+    font-size: 1rem;
+    color: var(--text-gray);
+    max-width: 800px;
+    margin: var(--spacing-lg) auto;
+    line-height: 1.8;
+    text-align: center;
+}
+
 /* Video */
 
 #media {
