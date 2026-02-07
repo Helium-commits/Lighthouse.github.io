@@ -98,7 +98,8 @@ body {
     font-size: 3rem;
     font-weight: 700;
     line-height: 1.2;
-    margin-bottom: var(--spacing-md);
+    margin-bottom: var(--spacing-3xl);
+    margin-top: var(--spacing-3xl);
 }
 
 }
